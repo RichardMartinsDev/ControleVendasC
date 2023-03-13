@@ -1,0 +1,106 @@
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\Vendas_Inventario.exe.config
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\Vendas_Inventario.exe
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\Vendas_Inventario.pdb
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\AxShockwaveFlashObjects.dll
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\CrystalDecisions.ReportSource.dll
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\CrystalDecisions.Shared.dll
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\CrystalDecisions.Windows.Forms.dll
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\log4net.dll
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\SAPBusinessObjects.WPF.Viewer.dll
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\log4net.xml
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.csproj.AssemblyReference.cache
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmAbout.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCategory.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCategoryRecord.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmChangePassword.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCompany.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCompanyRecord.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmConfig.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmConfigRecord.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmConfigRecord1.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCustomers.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCustomersRecord.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCustomersRecord1.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCustomersRecord2.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCustomersReport.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmInvoiceReport.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmLogin.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmLoginDetails.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmMainMenu.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmProduct.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmProductsRecord.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmProductsRecord1.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmRecoveryPassword.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmRegisteredUsersDetails.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmInvoice.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmSalesRecord.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmSalesRecord1.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmSalesReport.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmSplash.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmStock.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmStockRecord.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmStockRecord1.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmUserRegistration.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.Properties.Resources.resources
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.csproj.GenerateResource.cache
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.csproj.CoreCompileInputs.cache
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.csproj.CopyComplete
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.exe
+D:\OneDrive - RETÍFICA ITATIBA LTDA\Área de Trabalho\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.pdb
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\Vendas_Inventario.exe.config
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\Vendas_Inventario.exe
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\Vendas_Inventario.pdb
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\AxShockwaveFlashObjects.dll
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\CrystalDecisions.Shared.dll
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\log4net.dll
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\SAPBusinessObjects.WPF.Viewer.dll
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\bin\x64\Release\log4net.xml
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmAbout.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCategory.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCategoryRecord.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmChangePassword.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCompany.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCompanyRecord.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmConfig.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmConfigRecord.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmConfigRecord1.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCustomers.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCustomersRecord.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCustomersRecord1.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCustomersRecord2.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmCustomersReport.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmInvoiceReport.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmLogin.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmLoginDetails.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmMainMenu.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmProduct.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmProductsRecord.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmProductsRecord1.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmRecoveryPassword.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmRegisteredUsersDetails.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmInvoice.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmSalesRecord.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmSalesRecord1.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmSalesReport.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmSplash.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmStock.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmStockRecord.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmStockRecord1.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.frmUserRegistration.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.exe
+C:\Users\Administrador\Desktop\Projetos C#\Vendas_Inventário_C#\Vendas_Inventario\obj\x64\Release\Vendas_Inventario.pdb
