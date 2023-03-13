@@ -1,0 +1,22 @@
+Sistema para Vendas e Estoque de uma pequena loja feito na linguagem C# com Visual Studio 2012 usando o banco de dados MS Access
+
+
+Principais recursos
+
+1. Gerencia clientes
+2. Faturamento
+3. Gerencia Estoque
+4. Gera Fatura
+5. Realiza consultas de dados
+6. Relatórios com Crystal Reports
+
+Login: 
+usuario - admin
+Senha - admin
+
+O banco de dados esta na pasta \bin|Debug
+..\Vendas_Inventario\bin\Debug\SIS_DB.accdb
+
+O sistema é simples mas permite que o estudante aprenda diversas técnicas para gerenciar dados e realizar consultas, usar instruções SQL, criar relatórios no Crystal Reports.
+
+O sistema foi adaptado e traduzido para o portugues.
