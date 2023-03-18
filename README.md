@@ -1,4 +1,4 @@
-# ControleVendasC (Em Desenvolvimento)
+# ControleVendasC 
 Controle de Vendas e Estoque com banco de dados.
 
 
